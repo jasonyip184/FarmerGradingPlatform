@@ -6,4 +6,5 @@ In Indonesia, oil palm cultivation has become important to rural livelihoods, pa
 
 Designed a system to collect real-time data from farmers and provide them with geo-spatial data and weather forecast to improve productivity. Developed a dashboard as a platform for stakeholders to view farmers by their grading and identify opportunity for investments. Pitched to a panel of senior executives from Grow Asia, Unilever, Bayer, MUFG, East Ventures and industry experts in the audience.
 
+View:
 https://public.tableau.com/views/platform_1/Dashboard1?:embed=y&:display_count=yes&publish=yes
