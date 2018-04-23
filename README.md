@@ -1,4 +1,4 @@
-# FarmerGradingPlatform
+# Grading System for Smallholder Farmers
 
 Submission to Grow Asia Hackathon 2018
 
